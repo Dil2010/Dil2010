@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Mowana Tech Inc
+- 🔭 
 - 🌱 I’m currently learning Solidify
 - 👯 I’m looking to collaborate on Linkdn
 - 🤔 I’m looking for help with Python
